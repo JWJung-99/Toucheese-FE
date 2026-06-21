@@ -174,7 +174,7 @@ pw : 1q2w3e4r1!
 
 | PC  |                                                  모바일                                                   |
 | :-: | :-------------------------------------------------------------------------------------------------------: |
-|<img width="500" alt="image" src="https://github.com/user-attachments/assets/ad491350-7616-4d15-aa29-36941d0958d0" />| <img width="200" src="https://github.com/user-attachments/assets/c34c66fb-10d8-4700-a0e1-80326d63139a" /> |
+|<img width="500" alt="image" src="https://github.com/user-attachments/assets/ad491350-7616-4d15-aa29-36941d0958d0" />| <img width="200" src="https://github.com/user-attachments/assets/6c86af64-5d35-4921-84ff-513b5ba9fbe8" /> |
 
 #### 3) 포트폴리오
 
